@@ -2,55 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02c34f6f-e43d-4b27-85f2-26d9de1ef2d7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/button/breadcrumbs.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/button/btn_group.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/button/btn_toolbar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/button/deng_fen_btn.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/button/label.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/button/last_next_page.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/button/nav_2th_level.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/button/nav_black.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/button/nav_jastified.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/button/nav_pills.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/button/nav_pills_vertical.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/button/nav_responsive.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/button/nav_website.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/button/nav_website_basic.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/button/nav_website_search.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/button/navbar_fixed.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/button/navigation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/button/navigation_basic_style.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/button/navigation_tab.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/button/navigation_vertical.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/button/page_split.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/form/dropdown_align.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/form/dropdown_menu_item_status.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/form/dropdown_with_tiltle.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/form/dropdowns.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grid/col_in_col.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grid/col_offset.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grid/col_sort.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grid/grid1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/thumbnail.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/thumbnail2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/list/list_group.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modal/modal.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modal/modal2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modal/modal3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/panel/panel.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/progress_bar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/warn_box.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/warn_can_shutdown.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/warn_default.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/form/button.html" afterPath="$PROJECT_DIR$/button/button.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/form/button_block.html" afterPath="$PROJECT_DIR$/button/button_block.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/form/button_size.html" afterPath="$PROJECT_DIR$/button/button_size.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/form/grid1.html" afterPath="$PROJECT_DIR$/button/badge.html" />
     </list>
     <ignored path="bootstrapTest.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -338,21 +290,29 @@
       <option name="presentableId" value="Default" />
       <updated>1518924315172</updated>
       <workItem from="1518924317217" duration="7050000" />
-      <workItem from="1518952430701" duration="8062000" />
+      <workItem from="1518952430701" duration="8132000" />
     </task>
+    <task id="LOCAL-00001" summary="bootstrap_all">
+      <created>1518961678468</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1518961678468</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15112000" />
+    <option name="totallyTimeSpent" value="15182000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5319149" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -377,6 +337,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="bootstrap_all" />
+    <option name="LAST_COMMIT_MESSAGE" value="bootstrap_all" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
